@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f63813d-00f8-45ff-b5c0-1f39165987f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sum of array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Class Node.executor": "Run",
     "Python.count digits.executor": "Run",
     "Python.sum of array.executor": "Run",
     "Python.sumofarray.executor": "Run",
