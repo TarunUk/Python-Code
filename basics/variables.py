@@ -1,3 +1,5 @@
+#variables
+
 #strings
 name = "Tarun Rajput"
 addre = "India"
